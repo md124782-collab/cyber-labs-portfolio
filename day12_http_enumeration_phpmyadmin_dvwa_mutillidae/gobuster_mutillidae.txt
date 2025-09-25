@@ -1,0 +1,28 @@
+/.htaccess           [33m (Status: 403)[0m [Size: 307]
+/.hta                [33m (Status: 403)[0m [Size: 302]
+/.htpasswd           [33m (Status: 403)[0m [Size: 307]
+/classes             [36m (Status: 301)[0m [Size: 334][34m [--> http://192.168.56.102/mutillidae/classes/][0m
+/documentation       [36m (Status: 301)[0m [Size: 340][34m [--> http://192.168.56.102/mutillidae/documentation/][0m
+/credits             [32m (Status: 200)[0m [Size: 509]
+/favicon.ico         [32m (Status: 200)[0m [Size: 1150]
+/images              [36m (Status: 301)[0m [Size: 333][34m [--> http://192.168.56.102/mutillidae/images/][0m
+/includes            [36m (Status: 301)[0m [Size: 335][34m [--> http://192.168.56.102/mutillidae/includes/][0m
+/footer              [32m (Status: 200)[0m [Size: 450]
+/home                [32m (Status: 200)[0m [Size: 2930]
+/header              [32m (Status: 200)[0m [Size: 19879]
+/javascript          [36m (Status: 301)[0m [Size: 337][34m [--> http://192.168.56.102/mutillidae/javascript/][0m
+/inc                 [32m (Status: 200)[0m [Size: 386260]
+/installation        [32m (Status: 200)[0m [Size: 8138]
+/login               [32m (Status: 200)[0m [Size: 4102]
+/notes               [32m (Status: 200)[0m [Size: 1721]
+/passwords           [36m (Status: 301)[0m [Size: 336][34m [--> http://192.168.56.102/mutillidae/passwords/][0m
+/page-not-found      [32m (Status: 200)[0m [Size: 705]
+/phpMyAdmin          [32m (Status: 200)[0m [Size: 174]
+/index               [32m (Status: 200)[0m [Size: 24199]
+/phpinfo.php         [32m (Status: 200)[0m [Size: 48831]
+/phpinfo             [32m (Status: 200)[0m [Size: 48819]
+/index.php           [32m (Status: 200)[0m [Size: 24199]
+/robots.txt          [32m (Status: 200)[0m [Size: 160]
+/robots              [32m (Status: 200)[0m [Size: 160]
+/styles              [36m (Status: 301)[0m [Size: 333][34m [--> http://192.168.56.102/mutillidae/styles/][0m
+/register            [32m (Status: 200)[0m [Size: 1823]

@@ -1,0 +1,36 @@
+/.hta                [33m (Status: 403)[0m [Size: 302]
+/ChangeLog           [32m (Status: 200)[0m [Size: 40540]
+/contrib             [36m (Status: 301)[0m [Size: 334][34m [--> http://192.168.56.102/phpMyAdmin/contrib/][0m
+/changelog           [32m (Status: 200)[0m [Size: 74593]
+/.htpasswd           [33m (Status: 403)[0m [Size: 307]
+/docs                [32m (Status: 200)[0m [Size: 4583]
+/.htaccess           [33m (Status: 403)[0m [Size: 307]
+/calendar            [32m (Status: 200)[0m [Size: 4145]
+/favicon.ico         [32m (Status: 200)[0m [Size: 18902]
+/error               [32m (Status: 200)[0m [Size: 1063]
+/js                  [36m (Status: 301)[0m [Size: 329][34m [--> http://192.168.56.102/phpMyAdmin/js/][0m
+/lang                [36m (Status: 301)[0m [Size: 331][34m [--> http://192.168.56.102/phpMyAdmin/lang/][0m
+/libraries           [36m (Status: 301)[0m [Size: 336][34m [--> http://192.168.56.102/phpMyAdmin/libraries/][0m
+/LICENSE             [32m (Status: 200)[0m [Size: 18011]
+/license             [32m (Status: 200)[0m [Size: 18011]
+/export              [32m (Status: 200)[0m [Size: 4145]
+/index.php           [32m (Status: 200)[0m [Size: 4145]
+/index               [32m (Status: 200)[0m [Size: 4145]
+/import              [32m (Status: 200)[0m [Size: 4145]
+/print               [32m (Status: 200)[0m [Size: 1063]
+/README              [32m (Status: 200)[0m [Size: 2624]
+/main                [32m (Status: 200)[0m [Size: 4227]
+/phpmyadmin          [32m (Status: 200)[0m [Size: 21389]
+/navigation          [32m (Status: 200)[0m [Size: 4145]
+/phpinfo             [32m (Status: 200)[0m [Size: 0]
+/robots.txt          [32m (Status: 200)[0m [Size: 26]
+/robots              [32m (Status: 200)[0m [Size: 26]
+/scripts             [36m (Status: 301)[0m [Size: 334][34m [--> http://192.168.56.102/phpMyAdmin/scripts/][0m
+/phpinfo.php         [32m (Status: 200)[0m [Size: 0]
+/readme              [32m (Status: 200)[0m [Size: 2624]
+/setup               [36m (Status: 301)[0m [Size: 332][34m [--> http://192.168.56.102/phpMyAdmin/setup/][0m
+/test                [36m (Status: 301)[0m [Size: 331][34m [--> http://192.168.56.102/phpMyAdmin/test/][0m
+/themes              [36m (Status: 301)[0m [Size: 333][34m [--> http://192.168.56.102/phpMyAdmin/themes/][0m
+/TODO                [32m (Status: 200)[0m [Size: 235]
+/sql                 [32m (Status: 200)[0m [Size: 4145]
+/webapp              [32m (Status: 200)[0m [Size: 6902]
